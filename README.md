@@ -1,5 +1,7 @@
 # firefox-quantum-theme
 
+Reverse-engineered https://twitter.com/jasonlaster11/status/1022547128818782208
+
 ![](/screenshot.png)
 
 Install theme https://addons.mozilla.org/en-US/firefox/addon/quantumgradient/
