@@ -1,5 +1,7 @@
 # firefox-quantum-theme
 
+![](/screenshot.png)
+
 Install theme https://addons.mozilla.org/en-US/firefox/addon/quantumgradient/
 
 Put below in userChrome.css 
